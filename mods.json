@@ -1,0 +1,66 @@
+{
+  "modrinth": [],
+  "direct": [
+    {
+      "name": "Red_ZONE_Airdrop-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Airdrop-1.0.0.jar",
+      "sha1": "66fceebebc67e09a1507d2b4c7310408fc7a29c9"
+    },
+    {
+      "name": "Red_ZONE_Dop-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Dop-1.20.1-4.8.4.jar",
+      "sha1": "50e1407869ef0e909e3bdda9328b8bd7db03fdc0"
+    },
+    {
+      "name": "Red_ZONE_Dop-15.56.0.205.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Dop-15.56.0.205.jar",
+      "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650"
+    },
+    {
+      "name": "Red_ZONE_Dop-4.12.0-all.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Dop-4.12.0-all.jar",
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22"
+    },
+    {
+      "name": "Red_ZONE_Dop-5.14.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Dop-5.14.1%2B1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+    },
+    {
+      "name": "Red_ZONE_Eyes-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Eyes-1.0.0.jar",
+      "sha1": "3f349f24469c388a69b761545b557d8544b4394c"
+    },
+    {
+      "name": "Red_ZONE_MCSP-1.20.1-V1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_MCSP-1.20.1-V1.0.8.jar",
+      "sha1": "66917c6f23fab13353a5074a212d9eb9c7b66f34"
+    },
+    {
+      "name": "Red_ZONE_Radioactive-0.4.6.1.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Radioactive-0.4.6.1.jar",
+      "sha1": "14204e12029f8441b4d6ca4dcdfe507cab79ada5"
+    },
+    {
+      "name": "Red_ZONE_SPW-1.20.1-0.8.8-final-6a6b54795.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_SPW-1.20.1-0.8.8-final-6a6b54795.jar",
+      "sha1": "93e14d39c3328b88eb54e6018e5f2f88f32cdb73"
+    },
+    {
+      "name": "Red_ZONE_tacz-1.20.1-1.1.8-hotfix.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_tacz-1.20.1-1.1.8-hotfix.jar",
+      "sha1": "bddafeea4c9c1132ed720c30fbaedfe5ab25e846"
+    },
+    {
+      "name": "Red_ZONE_utility-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_utility-1.0.0.jar",
+      "sha1": "f351acdea384f14e10d8f99356bb74e8196ba6e2"
+    },
+    {
+      "name": "Red_ZONE_worldedit-7.2.15.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_worldedit-7.2.15.jar",
+      "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+    }
+  ],
+  "remove": []
+}
