@@ -57,6 +57,11 @@
       "sha1": "bddafeea4c9c1132ed720c30fbaedfe5ab25e846"
     },
     {
+      "name": "Red_ZONE_Utility-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_Utility-1.0.0.jar",
+      "sha1": "a0d7504616edacaf4e37ce6a2e66cc01f435f552"
+    },
+    {
       "name": "Red_ZONE_worldedit-7.2.15.jar",
       "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/own_mods/Red_ZONE_worldedit-7.2.15.jar",
       "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
