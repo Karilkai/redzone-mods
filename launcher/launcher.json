@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
+  "version": "1.1fix",
   "url": "https://raw.githubusercontent.com/Karilkai/redzone-mods/main/launcher/Red_Zone.exe",
-  "sha256": "3bca040ef702eab3828ae161b8a91619513914cfba181abb214cb991630f92c2",
-  "sig": "4S8GTCNMdzjmlHOoW9RjmjCRmVAysHxG/KChRxImjknqLeNL/CohwnbuXLR9DWmZmLaucscJqSKRwkepklUODQ=="
+  "sha256": "6671bda2cc1231d70bfd14214d5697f362dfc53fc87d2af801ae4bd023e20f40",
+  "sig": "Z4raIDygU4OIk1TyAwl5D0F/oOvaqosKipqenZumbbWVuaT55WtPd611azRAEKaGgKHqRU24JQcCFjOX0POWBA=="
 }
